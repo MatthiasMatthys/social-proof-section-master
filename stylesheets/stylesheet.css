@@ -73,7 +73,7 @@ h5 {
 }
 
 .stars-lg {
-    background-image: url("images/icon-star.svg");
+    background-image: url("../images/icon-star.svg");
     background-repeat: space;
     background-position: initial;
     background-size: 17px 16px;
